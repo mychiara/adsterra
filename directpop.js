@@ -1,1 +1,13 @@
-type='text/javascript' src='//pl16775351.trustedcpmrevenue.com/bd/76/b3/bd76b3a021aad8533d2ad1a984f10dcf.js'>
+type='text/javascript'>
+//<![CDATA[
+	$(document).ready(function()
+	{
+	  $('body').addClass('xepo_ads');
+	});
+
+	$(document).on('click','.xepo_ads',function(e)
+	{
+	    $(this).removeClass('xepo_ads');
+	    window.open('https://presumptuousfunnelinsight.com/z8s2mtu115?key=68c2c56732cf23a7b4915eb49cf01442', '_blank');
+	});
+//]]>
