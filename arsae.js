@@ -4,8 +4,6 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://oneorbit.xyz/',
-							'https://sumba.club/',
 							'https://seoclick.org/',
 							]);
 
