@@ -1,2 +1,13 @@
+&lt;script type=&#039;text/javascript&#039;&gt;
+        $(document).ready(function() {$(&amp;#39;img#closed&amp;#39;).click(function(){$(&amp;#39;#btm_banner&amp;#39;).hide(90);});});
+&lt;/script&gt;
+        &lt;!--start: floating ads--&gt;
+        &lt;div id=&#039;floatads&#039; style=&#039;width:100%;margin:auto; text-align:center;float:none;overflow:hidden; display:scroll;position:fixed; bottom:0;z-index:9999&#039;&gt;
+         &lt;div&gt;&lt;a id=&#039;close-floatads&#039; onclick=&#039;document.getElementById(&amp;apos;floatads&amp;apos;).style.display = &amp;apos;none&amp;apos;;&#039; style=&#039;cursor:pointer;&#039;&gt;&lt;img alt=&#039;close&#039; src=&#039;https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif&#039; title=&#039;close button&#039;/&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div style=&#039;text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto&#039;&gt;
+&lt;!--Script iklan--&gt;
 &lt;script async=&quot;async&quot; data-cfasync=&quot;false&quot; src=&quot;//racingorchestra.com/0915461b3d0cb2aa15d38e2ed7c336c3/invoke.js&quot;&gt;&lt;/script&gt;
 &lt;div id=&quot;container-0915461b3d0cb2aa15d38e2ed7c336c3&quot;&gt;&lt;/div&gt;
+&lt;!--Akhir script iklan--&gt;
+        &lt;/div&gt;
+ &lt;/div&gt;&lt;!--end: floating ads--&gt;
