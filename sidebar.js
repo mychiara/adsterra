@@ -1,12 +1,8 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1462936146223932"
-     crossorigin="anonymous"></script>
-<!-- bismillah gasss -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1462936146223932"
-     data-ad-slot="2605134032"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+	atOptions = {
+		'key' : 'ec47a53396483564a5a7c484b2d5de9e',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highconvertingformats.com/ec47a53396483564a5a7c484b2d5de9e/invoke.js"></scr' + 'ipt>');
