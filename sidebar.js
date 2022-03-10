@@ -1,8 +1,1 @@
-	atOptions = {
-		'key' : '0c36e62040e13f23ed831c26d97931ec',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highconvertingformats.com/0c36e62040e13f23ed831c26d97931ec/invoke.js"></scr' + 'ipt>');
+<a href="https://www.effectivegatetocontent.com/hde6qg1q3s?key=8ce17c40251e39e38dbbec4a3f9cd06e" target="_blank" title="18+ Stock Terbatas"><img alt="gg" src="https://blogger.googleusercontent.com/img/a/AVvXsEhOU_ygojsw7WiksWOp9yY-XscyujaI7HCBywy2P727A9SqEqeokRuJ6OdhYM7yL30AuFGmgkSrfCW_-4cWLCzLDGurRZDB6REwucYrC6PzQ2VroivRWHgHBQeTUMdYV3cI2HAoK9OsqR4ZyJEq0hVoVVBJW0GIGJwkmj_3kX4Mkt3-dvLj__K5oH7fFg=s16000"></a>
