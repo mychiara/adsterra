@@ -1,1 +1,8 @@
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pl15563456.effectivecpmcontent.com/4e/38/f9/4e38f90131462c6eaf21f78ffb94f60f.js"></scr' + 'ipt>');
+	atOptions = {
+		'key' : 'fc8c284434e227dfa520ab45f6931c94',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highconvertingformats.com/fc8c284434e227dfa520ab45f6931c94/invoke.js"></scr' + 'ipt>');
