@@ -8,6 +8,6 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://shope.ee/9oyIrbrJTc','_blank'),('https://shope.ee/9eesfIrwob','_blank');
+	    window.open('https://shope.ee/9oyIrbrJTc','_blank')('https://shope.ee/9eesfIrwob','_blank');
 	});
 //]]>
