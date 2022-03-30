@@ -1,8 +1,1 @@
-	atOptions = {
-		'key' : 'd04b5e8712960b5564b30644da7c67ea',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/d04b5e8712960b5564b30644da7c67ea/invoke.js"></scr' + 'ipt>');
+<div id="vjlbfjrpawk"><script>!(function(w,m){(w[m]||(w[m]=[]))&&w[m].push({id:'vjlbfjrpawk',block:'130752',site_id:'24441'});})(window, 'mtzBlocks');</script></div>
