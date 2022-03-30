@@ -1,8 +1,9 @@
-	atOptions = {
-		'key' : '7b5746a032c5be0376bc610628c11c70',
+atOptions = {
+		'key' : 'fc8c284434e227dfa520ab45f6931c94',
 		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
+		'height' : 60,
+		'width' : 468,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/7b5746a032c5be0376bc610628c11c70/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highconvertingformats.com/fc8c284434e227dfa520ab45f6931c94/invoke.js"></scr' + 'ipt>');
+
