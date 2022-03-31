@@ -1,1 +1,8 @@
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pxpfnbe1t1.com/script.js"></scr' + 'ipt>');
+	atOptions = {
+		'key' : 'd04b5e8712960b5564b30644da7c67ea',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/d04b5e8712960b5564b30644da7c67ea/invoke.js"></scr' + 'ipt>');
