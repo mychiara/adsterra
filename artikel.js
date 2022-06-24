@@ -1,20 +1,12 @@
 type='text/javascript'>
-$(function() {
-    $('button.open').click(function() {
-        $('#kotak-pesan').animate({top:"200px"}, 1000);
-        return false;
-    });
+$(window).bind("load", function() {
+
+    // kotak pesan akan tampil saat halaman telah selesai dimuat
+    $('#kotak-pesan').animate({top:"150px"}, 1000);
+
+    // menghilangkan kotak pesan saat tombol (x) diklik
     $('a.close').click(function() {
-        $(this).parent().animate({top:"-600px"}, 1000);
+        $(this).parent().fadeOut();
         return false;
     });
 });
-
-<div id='kotak-pesan'>
-
-Tulis Pesan Anda Disini....
-
-<a class='close' href='' title='Close'>&times;</a>
-</div>
-
-<button class="open">Buka Teks Pesan</button>
