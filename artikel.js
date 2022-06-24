@@ -1,8 +1,20 @@
-	atOptions = {
-		'key' : 'b5183bedb5e213cc968ff6dcef6a61e2',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/b5183bedb5e213cc968ff6dcef6a61e2/invoke.js"></scr' + 'ipt>');
+type='text/javascript'>
+$(function() {
+    $('button.open').click(function() {
+        $('#kotak-pesan').animate({top:"200px"}, 1000);
+        return false;
+    });
+    $('a.close').click(function() {
+        $(this).parent().animate({top:"-600px"}, 1000);
+        return false;
+    });
+});
+
+<div id='kotak-pesan'>
+
+Tulis Pesan Anda Disini....
+
+<a class='close' href='' title='Close'>&times;</a>
+</div>
+
+<button class="open">Buka Teks Pesan</button>
