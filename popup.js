@@ -1,13 +1,8 @@
-
-type='text/javascript'>
-$(window).bind("load", function() {
-
-    // kotak pesan akan tampil saat halaman telah selesai dimuat
-    $('#kotak-pesan').animate({top:"150px"}, 1000);
-
-    // menghilangkan kotak pesan saat tombol (x) diklik
-    $('a.close').click(function() {
-        $(this).parent().fadeOut();
-        return false;
-    });
-});
+atOptions = {
+		'key' : '98997cebcc422dcf318d719442cb1a7d',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://nearestaxe.com/98997cebcc422dcf318d719442cb1a7d/invoke.js"></scr' + 'ipt>');
