@@ -1,12 +1,9 @@
-type='text/javascript'>
-$(window).bind("load", function() {
+	atOptions = {
+		'key' : 'b5183bedb5e213cc968ff6dcef6a61e2',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/b5183bedb5e213cc968ff6dcef6a61e2/invoke.js"></scr' + 'ipt>');
 
-    // kotak pesan akan tampil saat halaman telah selesai dimuat
-    $('#kotak-pesan').animate({top:"150px"}, 1000);
-
-    // menghilangkan kotak pesan saat tombol (x) diklik
-    $('a.close').click(function() {
-        $(this).parent().fadeOut();
-        return false;
-    });
-});
