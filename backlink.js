@@ -1,6 +1,6 @@
 language="javascript">
 <!--
-document.write("<a href=\"https://oneorbit.xyz\">");
-document.write("<img alt='Promo Shopee' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4u5EpBQsNAPIWVYHjemZTrTgGHiq89LPCx_eUW4s602I8Zf_m8XuGi5XOjjwjnccFZ3YR8HHuySLuc0MFYa2SISssJqnrDGEYtrBoFYoGGTAqWEDsgNkHk6hH00WeljPKM1lr4Nr2izKXf69kFQTkMn3tyNSRBzuOlkAJnTlYBdR2bD08DK0YbfBb/s250/61cd5b55287d5776157e2ea810f524b5.png' />");
+document.write("<a href=\"https://oneorbit.xyz/the-best-way-to-get-your-life-insurance-license\">");
+document.write("<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkjJx6aG50ZxcYp0Bj1dNgNjLGmz5xRzUtXuS-kwUDnkvh9qhqtnBFXw7e0wwy18xRdaICc3eyyZ0KeKIYBOPzuLMRMqS2nde3LxeGNhvgHB-YkSx4ytCYxfRxOjjKusVk_P7rmyX0NfksVJE5gEQn-PjT2j68RD80GQp5OupSi4r2gf7OsrQz0qd8/s621/Screenshot_10.png' />");
 document.write("</a>");
 //-->
