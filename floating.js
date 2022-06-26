@@ -1,8 +1,11 @@
-	atOptions = {
-		'key' : '5201db71584cd68b2c53675d013fff26',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/5201db71584cd68b2c53675d013fff26/invoke.js"></scr' + 'ipt>');
+async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6987669088940391"
+     crossorigin="anonymous"></script>
+<!-- subdomain -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6987669088940391"
+     data-ad-slot="8278909068"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
