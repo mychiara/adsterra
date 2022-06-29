@@ -1,4 +1,2 @@
-type='text/javascript'>
-//<![CDATA[
-document.write type='text/javascript' src='//pl15293407.profitablecpmgate.com/61/e2/aa/61e2aa872807906eb359f576da2a3935.js'></script>
-//]]>
+language="text/javascript">
+  //pl16122820.profitablecpmgate.com/d6/80/f1/d680f186b549742f28e078126c2d7e93.js
