@@ -2,7 +2,7 @@
 
 <!--
 document.write("<a href=\"/">");
-document.write("<b>baca juga : homepage</b>");
+document.write("<p><strong>{{ $title }}</strong>");
 document.write("</a>");
 //-->
 </script>
