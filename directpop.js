@@ -8,6 +8,6 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://www.profitablecpmgate.com/qa4hiubq2?key=f6d1a4b27696d4f60fdf853698410799','_blank');
+	    window.open('https://www.profitablecpmgate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731','_blank');
 	});
 //]]>
