@@ -5,6 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://oneorbit.xyz/',
+							'https://chiarafans.club/',
 							'https://insurance.oneorbit.xyz/',
 							]);
 
