@@ -1,2 +1,2 @@
 language="javascript">
-<!--ads/responsive//-->
+<!--ads/responsive-->
