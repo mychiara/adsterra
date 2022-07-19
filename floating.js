@@ -1,1 +1,1 @@
-document.write("<!-- ads/responsive -->")
+document.write("<!--ads/responsive.txt-->")
