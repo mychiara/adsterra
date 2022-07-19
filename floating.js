@@ -1,1 +1,2 @@
-<!-- ads/responsive -->
+language="javascript">
+<!--ads/responsive//-->
