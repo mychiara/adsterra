@@ -1,1 +1,1 @@
-document.getElementById("<!-- ads/responsive -->").innerHTML = "<!-- ads/responsive -->";
+document.getElementById("<!--ads/responsive.txt-->").innerHTML = "<!--ads/responsive.txt-->";
