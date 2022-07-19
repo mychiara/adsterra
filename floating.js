@@ -1,3 +1,5 @@
-//<![CDATA[  var s = function(){ 
-    return "<!--ads/responsive.txt-->"; 
-}  //]]>
+language="javascript">
+<!--
+document.write("<a href=\"https://oneorbit.xyz/ads/responsive.txt\">");
+document.write("</a>");
+//-->
