@@ -1,1 +1,4 @@
-<!--ads/responsive.txt-->
+language="javascript">
+<!--
+ads/responsive.txt
+//-->
