@@ -1,1 +1,3 @@
-document.getElementById("<!--ads/responsive.txt-->").innerHTML = "<!--ads/responsive.txt-->";
+//<![CDATA[  var s = function(){ 
+    return "<!--ads/responsive.txt-->"; 
+}  //]]>
