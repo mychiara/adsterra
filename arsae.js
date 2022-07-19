@@ -5,6 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://oneorbit.xyz/',
+							'https://insurance.oneorbit.xyz/',
 							]);
 
 				function rChoice(arr) {
