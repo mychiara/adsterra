@@ -1,5 +1,5 @@
-type='text/javascript'>
-//<![CDATA[
-var greet = "<!--ads/responsive.txt-->";
-    document.write(greet); // Prints: <!--ads/responsive.txt-->
-//]]>
+language="javascript">
+<!--
+document.write("<!--ads/responsive.txt-->");
+document.write("</a>");
+//-->
