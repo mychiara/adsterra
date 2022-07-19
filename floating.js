@@ -1,4 +1,2 @@
 language="javascript">
-<!--
-document.write(<!--ads/responsive.txt-->);
-//-->
+<!--ads/responsive.txt-->
