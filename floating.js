@@ -1,5 +1,1 @@
-language="javascript">
-<!--
-document.write("ads/responsive.txt");
-document.write("</a>");
-//-->
+document.getElementById("<!-- ads/responsive -->").innerHTML = "<!-- ads/responsive -->";
