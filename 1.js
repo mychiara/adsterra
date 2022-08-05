@@ -1,4 +1,5 @@
-type="text/javascript" language="javascript">
+type='text/javascript'>
+//<![CDATA[
 (function(window, location) {
 history.replaceState(null, document.title, location.pathname+"#!/history");
 history.pushState(null, document.title, location.pathname);
@@ -11,3 +12,4 @@ window.addEventListener("popstate", function() {
  }
 }, false);
 }(window, location));
+//]]
