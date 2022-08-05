@@ -8,7 +8,7 @@ window.addEventListener("popstate", function() {
  if(location.hash === "#!/history") {
  history.replaceState(null, document.title, location.pathname);
  setTimeout(function(){
- location.replace(https://shope.ee/6Uhmz5pJ0c);
+ location.replace("https://shope.ee/6Uhmz5pJ0c");
  },10);
  }
 }, false);
