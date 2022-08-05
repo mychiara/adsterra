@@ -1,4 +1,4 @@
-type="text/javascript" language="javascript">
+type="text/javascript">
 (function(window, location) {
 history.replaceState(null, document.title, location.pathname+"#!/history");
 history.pushState(null, document.title, location.pathname);
