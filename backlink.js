@@ -1,6 +1,6 @@
 language="javascript">
 <!--
 document.write("<a href=\"https://gochia.app\">");
-document.write("Best SCyber Security Article/>");
+document.write(<b>"Best Cyber Security Article"</b>);
 document.write("</a>");
 //-->
