@@ -1,6 +1,7 @@
-language="javascript">
-<!--
-document.write("<a href=\"https://gochia.app">");
-document.write("<b>Read More</b>");
-document.write("</a>");
-//-->
+type="text/javascript"> 
+//<![CDATA[
+
+  var locationOrURL = "https://gochia.app/"; 
+  var anchorName = locationOrURL.anchor("Cyber Security");  
+  alert(anchorName); 
+ //]]>
