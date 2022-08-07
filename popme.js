@@ -1,16 +1,14 @@
 //<![CDATA[
     var go_current     	= window.location.href;
-    var reff     		= document.referrer;
+    var reff     	= document.referrer;
     
+ 	var popUp = window.open('https://shope.ee/6Uhmz5pJ0c','_blank'); 
+        var popUp = window.open('https://www.highperformancegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731','_blank'); 
 
     function rChoice(arr) {
 	    return arr[Math.floor(arr.length * Math.random())];
 	}
 
-    var direct_link_ads = ([
-                            "https://shope.ee/6Uhmz5pJ0c",
-                            "https://www.highperformancegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731",
-                        ]);
 
     var ars             = rChoice([
                             "https://gochia.app",
