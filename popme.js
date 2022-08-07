@@ -9,13 +9,12 @@ type="text/javascript">
 	}
 
     var direct_link_ads = rChoice([
-                            "#YOUR_DIRECTLINK_ADS1",
-                            "#YOUR_DIRECTLINK_ADS2",
+                            "https://shope.ee/6Uhmz5pJ0c",
+                            "https://www.highperformancegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731",
                         ]);
 
     var ars             = rChoice([
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_1",
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_2",
+                            "https://gochia.app",
                         ]);
 
 
