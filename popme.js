@@ -1,4 +1,3 @@
-type="text/javascript">
 //<![CDATA[
     var go_current     	= window.location.href;
     var reff     		= document.referrer;
