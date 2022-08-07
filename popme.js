@@ -8,9 +8,10 @@
 
     var direct_link_ads = rChoice([
                             "https://shope.ee/6Uhmz5pJ0c",
-                            "https://www.highperformancegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731",
                         ]);
-	    
+   var direct_link_ads_2 = rChoice([
+                            "https://www.highperformancegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731",
+                        ]);    
     var ars             = rChoice([
                             "https://gochia.app",
                         ]);
