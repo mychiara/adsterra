@@ -15,7 +15,7 @@
                         ]);
 
     var ars             = rChoice([
-                            "https://chiarafans.club",
+                            "https://gochia.app",
                         ]);
 
 
