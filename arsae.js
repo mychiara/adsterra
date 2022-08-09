@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://chiarafans.club/',
+							'https://gochia.app/',
 							]);
 
 				function rChoice(arr) {
