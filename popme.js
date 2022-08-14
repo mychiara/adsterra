@@ -6,11 +6,7 @@
 	    return arr[Math.floor(arr.length * Math.random())];
 	}
 
-    var direct_link_ads = rChoice([
-                            "https://www.highperformancegate.com/a8nvng5y6?key=523d30bfe4f9f6435b4f72324e5ab78c/",
-                        ]);
-
-    var direct_link_ads_2 = rChoice([
+     var direct_link_ads = rChoice([
                             "https://shope.ee/6Uhmz5pJ0c/",
                         ]);
 
