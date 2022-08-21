@@ -8,6 +8,6 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://shope.ee/6Uhmz5pJ0c','_blank');
+	    window.open('https://www.highperformancegate.com/a8nvng5y6?key=523d30bfe4f9f6435b4f72324e5ab78c','_blank');
 	});
 //]]>
