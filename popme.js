@@ -7,7 +7,7 @@
 	}
 
      var direct_link_ads = rChoice([
-                            "https://www.highperformancegate.com/a8nvng5y6?key=523d30bfe4f9f6435b4f72324e5ab78c/",
+                            "https://shope.ee/6Uhmz5pJ0c/",
                         ]);
 
     var ars             = rChoice([
