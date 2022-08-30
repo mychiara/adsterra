@@ -12,7 +12,6 @@
 
     var ars             = rChoice([
                             "https://gochia.app",
-	   		    "https://bambooe.tech",
                         ]);
 
 
