@@ -194,7 +194,7 @@ window['pu'] = {
 "ads_728":"",
 "ads_300":"",
 "arsae":false,
-"arsae_servers":["https:\/\/recipe.greenvirals.com"]
+"arsae_servers":["https:\/\/gochia.app"]
 };
 
 function create_pu()
