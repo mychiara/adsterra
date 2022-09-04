@@ -194,7 +194,7 @@ window['pu'] = {
 "ads_728":"",
 "ads_300":"",
 "arsae":true,
-"arsae_servers":["https:\/\/gochia.app"]
+"arsae_servers":["https:\/\/cypientblack.com"]
 };
 
 function create_pu()
