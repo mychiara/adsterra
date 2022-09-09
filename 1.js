@@ -48,35 +48,35 @@ function removeImg(data){
 
 function referer_se()
 {
-    return str_contains(document.referrer.toLowerCase(), ['.google.', '.yahoo.', '.bing.', '.yandex.']);
+	return str_contains(document.referrer.toLowerCase(), ['.google.', '.yahoo.', '.bing.', '.yandex.']);
 }
 
 function referer_sm()
 {
-    return str_contains(document.referrer.toLowerCase(), ['fb.com', 'facebook.com', 'twitter.com', 'pinterest.com', 'plus.google.']);
+	return str_contains(document.referrer.toLowerCase(), ['fb.com', 'facebook.com', 'twitter.com', 'pinterest.com', 'plus.google.']);
 }
 
 function referer_empty()
 {
-    var referer = document.referrer;
-    return (!referer || 0 === referer.length);
+	var referer = document.referrer;
+	return (!referer || 0 === referer.length);
 }
 
 function referer_not_empty()
 {
-    return !referer_empty();
+	return !referer_empty();
 }
 
 function str_contains(str, needles){
-    var contains = false;
+	var contains = false;
 
-    needles.forEach(function(needle){
-        if(str.indexOf(needle) != -1){
-            contains = true;
-        }
-    });
+	needles.forEach(function(needle){
+		if(str.indexOf(needle) != -1){
+			contains = true;
+		}
+	});
 
-    return contains;
+	return contains;
 }
 
 function setInnerHTML(elm, html) {
@@ -94,30 +94,23 @@ function inject(location, pu_var)
 {
     //Create the element using the createElement method.
     var myDiv = document.createElement("div");
-    myDiv.setAttribute("style","display: flex;justify-content: center;");
+	myDiv.setAttribute("style","display: flex;justify-content: center;");
 
-    let doc=document[location];
+	let doc=document[location];
 
-    if (doc) {
-        document[location].appendChild(myDiv);
+	if (doc) {
+		document[location].appendChild(myDiv);
 
-        //Set its unique ID.
-        //myDiv.id = 'pop_' + window.pu.id + '_' + pu_var;
-        //Add your content to the DIV
-        setInnerHTML(myDiv, window.pu[pu_var]);
-        console.log("Element found " + location);
+		//Set its unique ID.
+		//myDiv.id = 'pop_' + window.pu.id + '_' + pu_var;
+		//Add your content to the DIV
+		setInnerHTML(myDiv, window.pu[pu_var]);
+		console.log("Element found " + location);
 
-    } else {
-        console.log("Not found " + location);
-    }
+	} else {
+		console.log("Not found " + location);
+	}
 }
-
-
-
-
-
-
-
 
 //SETTING ADS HERE
 //ADS 728 di head
@@ -139,40 +132,40 @@ function inject(location, pu_var)
             },
         ],
         { target: [
-        "head",
-        ]
+		"head",
+		]
         }
     );
 
     function injectScript(e, t) {
         let n = t.target;
-    let s = "display: flex;justify-content: center;";
-    n.forEach(function(b){    
-        if (document.querySelector(b)) {
-            let divElem=document.createElement("div");
-            divElem.setAttribute("style",s);
+	let s = "display: flex;justify-content: center;";
+	n.forEach(function(b){    
+		if (document.querySelector(b)) {
+			let divElem=document.createElement("div");
+			divElem.setAttribute("style",s);
 
-                    for (let t of e) {
-                        let e = t.tag,
-                        r = t.inner,
-                        o = document.createElement(e);
-                    o.innerHTML = r;
-                    let c = t.attr;
-                    for (let e of c) o.setAttribute(e.name, e.value);
-            
-            divElem.append(o);
+            		for (let t of e) {
+            			let e = t.tag,
+                		r = t.inner,
+                		o = document.createElement(e);
+            		o.innerHTML = r;
+            		let c = t.attr;
+            		for (let e of c) o.setAttribute(e.name, e.value);
+			
+			divElem.append(o);
 
-                }   
-        
-            let targetEl=document.querySelector(b);
-            targetEl.parentNode.insertBefore(divElem,targetEl.nextSibling);
-            divElem.after(targetEl);
-            console.log("Element " + b + " FOUND");
+        		}	
+		
+			let targetEl=document.querySelector(b);
+			targetEl.parentNode.insertBefore(divElem,targetEl.nextSibling);
+			divElem.after(targetEl);
+			console.log("Element " + b + " FOUND");
 
-        } else {
-            console.log("Element " + b + " NOT FOUND");
-        }
-    });
+		} else {
+			console.log("Element " + b + " NOT FOUND");
+		}
+	});
     }
 })();
 
@@ -187,7 +180,6 @@ window['pu'] = {
 "type":"floating_banner",
 "floating_banner":"<div id=\"banner-container\" style=\"width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:10px;z-index:999;-webkit-transform:translateZ(0);\">\n        <div style=\"margin-bottom: 10px;\">\n<a onclick='document.getElementById(\"banner-container\").style.display = \"none\";' style='cursor:pointer;'><span style='vertical-align:middle; background: yellow; padding: 0px 11.3px 3px 11.3px; border: 3px solid red; color: red; font-size: 1em; font-weight: bold; border-radius: 100px;'> close <\/span><\/a>\n<\/div>\n<div style=\"text-align:center;display:block;max-width:300px;height:250px;overflow:hidden;margin:auto; border: 3px solid red; background: yellow;\">\n\n            <script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '8e838fe86ab8194b2def61813e1a63f7',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 250,\r\n\t\t'width' : 300,\r\n\t\t'params' : {}\r\n\t};\r\n<\/script>\r\n\r\n<script type=\"text\/javascript\" src=\"\/\/www.highperformancedisplayformat.com\/8e838fe86ab8194b2def61813e1a63f7\/invoke.js\"><\/script>\n<\/div>\n<\/div>",
 "html_body":"",
-"direct_link":["https:\/\/\/"],
 "ads_728":"",
 "ads_300":"",
 "arsae":true,
@@ -196,12 +188,12 @@ window['pu'] = {
 
 function create_pu()
 {
-    document.addEventListener('DOMContentLoaded', function () {
-        
+	document.addEventListener('DOMContentLoaded', function () {
+		
         var target = window.location.href;
         if(window.pu.arsae){
-        console.log(window.location.href.toLowerCase());
-        console.log(window.pu.arsae_servers);
+	    console.log(window.location.href.toLowerCase());
+	    console.log(window.pu.arsae_servers);
 
             if(!str_contains(window.location.href.toLowerCase(), window.pu.arsae_servers)){
                 var arsae_servers = window.pu.arsae_servers;
@@ -214,8 +206,8 @@ function create_pu()
                 return false;
             }
         }
-    var dl_servers = window.pu.direct_link;
-    var dl = dl_servers[Math.floor(Math.random()*dl_servers.length)];
+	var dl_servers = window.pu.direct_link;
+	var dl = dl_servers[Math.floor(Math.random()*dl_servers.length)];
         var origin = dl;
 
 
@@ -244,25 +236,26 @@ function create_pu()
         else{
             console.log('pux executed');
         }
-        
-    if (window.pu.html_body) {
-        inject('body', 'html_body');
-    }
-    if (window.pu.ads_728) {
-                console.log('h1ads_728 executed');
-        inject('header', 'ads_728');
-    }
-    if (window.pu.ads_300) {
-        inject('head', 'ads_300');
-    }
+		
+	if (window.pu.html_body) {
+		inject('body', 'html_body');
+	}
+	if (window.pu.ads_728) {
+            	console.log('h1ads_728 executed');
+		inject('header', 'ads_728');
+	}
+	if (window.pu.ads_300) {
+		inject('head', 'ads_300');
+	}
     });
 }
 
 if(pu.rt_enable){
-    if( (pu.referer_se && referer_se()) || (pu.referer_sm && referer_sm()) || (pu.referer_empty && referer_empty()) || (pu.referer_not_empty && referer_not_empty())){
-        create_pu();
-    }
+	if( (pu.referer_se && referer_se()) || (pu.referer_sm && referer_sm()) || (pu.referer_empty && referer_empty()) || (pu.referer_not_empty && referer_not_empty())){
+		create_pu();
+	}
 }
 else{
-    create_pu();
+	create_pu();
 }
+
