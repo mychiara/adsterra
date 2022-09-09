@@ -181,13 +181,13 @@ window['pu'] = {
 "frequency":3,
 "rt_enable":true,"referer_se":true,"referer_sm":true,"referer_empty":true,"referer_not_empty":true,
 "type":"floating_banner",
-"floating_banner":"<div id=\"banner-container\" style=\"width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:10px;z-index:999;-webkit-transform:translateZ(0);\">\n        <div style=\"margin-bottom: 10px;\">\n<a onclick='document.getElementById(\"banner-container\").style.display = \"none\";' style='cursor:pointer;'><span style='vertical-align:middle; background: yellow; padding: 0px 11.3px 3px 11.3px; border: 3px solid red; color: red; font-size: 1em; font-weight: bold; border-radius: 100px;'> close <\/span><\/a>\n<\/div>\n<div style=\"text-align:center;display:block;max-width:300px;height:250px;overflow:hidden;margin:auto; border: 3px solid red; background: yellow;\">\n\n            <script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '8e838fe86ab8194b2def61813e1a63f7',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 250,\r\n\t\t'width' : 300,\r\n\t\t'params' : {}\r\n\t};\r\n<\/script>\r\n\r\n<script type=\"text\/javascript\" src=\"\/\/www.highperformancedisplayformat.com\/8e838fe86ab8194b2def61813e1a63f7\/invoke.js\"><\/script>\n<\/div>\n<\/div>",
+"floating_banner":"<div id=\"banner-container\" style=\"width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:10px;z-index:999;-webkit-transform:translateZ(0);\">\n        <div style=\"margin-bottom: 10px;\">\n<a onclick='document.getElementById(\"banner-container\").style.display = \"none\";' style='cursor:pointer;'><span style='vertical-align:middle; background: yellow; padding: 0px 11.3px 3px 11.3px; border: 3px solid red; color: red; font-size: 1em; font-weight: bold; border-radius: 100px;'> close <\/span><\/a>\n<\/div>\n<div style=\"text-align:center;display:block;max-width:300px;height:250px;overflow:hidden;margin:auto; border: 3px solid red; background: yellow;\">\n\n            <script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '8e838fe86ab8194b2def61813e1a63f7',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 250,\r\n\t\t'width' : 300,\r\n\t\t'params' : {}\r\n\t};\r\n<\/script>\r\n\r\n<script type=\"text\/javascript\" src=\"\/\/www.highperformancedisplayformat.com/8e838fe86ab8194b2def61813e1a63f7\/invoke.js\"><\/script>\n<\/div>\n<\/div>",
 "html_body":"",
 "direct_link":["https:\/\/profitablegatetocontent.com\/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731"],
 "ads_728":"",
 "ads_300":"",
 "arsae":true,
-"arsae_servers":["https:\/\/cypientblack.com"]
+"arsae_servers":["https:\/\/gochia.app"]
 };
 
 function create_pu()
