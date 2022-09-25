@@ -4,6 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
+							'https://momchia.com/',
 							'https://gochia.app/',
 							]);
 
