@@ -5,6 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://momchia.com/',
+							'https://gochia.app/',
 							]);
 
 				function rChoice(arr) {
