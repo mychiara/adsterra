@@ -1,9 +1,13 @@
-//---- disable back ----
-history.pushState(null, document.title, window.location.href);
-window.addEventListener('popstate', function (event)
-{
-  window.location.href="https://shope.ee/6Uhmz5pJ0c";
-});
-window.addEventListener('scroll', function() {
-  history.pushState(null, document.title, window.location.href);
-});
+type='text/javascript'>
+//<![CDATA[
+	$(document).ready(function()
+	{
+	  $('body').addClass('xepo_ads');
+	});
+
+	$(document).on('click','.xepo_ads',function(e)
+	{
+	    $(this).removeClass('xepo_ads');
+	    window.open('https://shope.ee/6Uhmz5pJ0c','_blank');
+	});
+//]]>
