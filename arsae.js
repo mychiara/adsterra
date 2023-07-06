@@ -4,8 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://gochia.app/',
-							'https://cypientblack.com/',
+							'https://boscleine.com/',
 									
 							]);
 
