@@ -1,8 +1,8 @@
 	atOptions = {
-		'key' : 'd04b5e8712960b5564b30644da7c67ea',
+		'key' : '5fe6d3803647ddb9e6a7a436293404d5',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitablecreativeformat.com/d04b5e8712960b5564b30644da7c67ea/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.profitablecreativeformat.com/5fe6d3803647ddb9e6a7a436293404d5/invoke.js"></scr' + 'ipt>');
