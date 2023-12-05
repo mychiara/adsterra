@@ -5,6 +5,6 @@
 
   // Redirect to the second URL in a new tab after another 3 seconds
   setTimeout(function() {
-    window.open('https://www.toprevenuegate.com/d7ha27e5?key=3e13d68a557a37d91e09eff64ec81731', '_blank');
+    window.open('https://resepi.link/', '_blank');
   }, 1000); // 6000 milliseconds = 6 seconds
 
