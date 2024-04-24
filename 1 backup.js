@@ -5,6 +5,6 @@
 
   // Redirect to the second URL in a new tab after another 3 seconds
   setTimeout(function() {
-    window.open('https://resepi.link/', '_blank');
+    window.open('https://boscleine.com', '_blank');
   }, 1000); // 6000 milliseconds = 6 seconds
 
