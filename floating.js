@@ -5,4 +5,4 @@
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/887d1ebe7501f6544975e832f7527848/invoke.js"></scr' + 'ipt>')
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/887d1ebe7501f6544975e832f7527848/invoke.js"></scr' + 'ipt>');
